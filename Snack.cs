@@ -12,7 +12,7 @@ namespace ExpendedoraG2_2024_1
             LimpiarDisplay();
             string codigo = MostrarProducto();
             LimpiarDisplay();
-            MostarPrecio(codigo);
+            MostrarPrecio(codigo);
         }
     }
 }

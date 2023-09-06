@@ -67,7 +67,7 @@ namespace ExpendedoraG2_2024_1
             return codigo;
         }
 
-        public virtual void MostarPrecio(string codigo)
+        public virtual void MostrarPrecio(string codigo)
         {
             switch(codigo)
             {
